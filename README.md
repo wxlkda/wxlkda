@@ -1,3 +1,3 @@
 ### Hi there, it's alwalid. 👋
 
-Software Engineer intern that loves developing and mainting code. Feel free to message me on linkedin or my email for a chat :)
+Software Engineer intern that loves developing and mainting code. Feel free to message me on linkedin or my email for a chat regarding internships or anything :)
