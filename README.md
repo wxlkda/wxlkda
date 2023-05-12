@@ -13,5 +13,6 @@
 
 
 <h1 align = "center"> 📈 My GitHub Stats </h1>
-[![Wxlkda's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlkda)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alwalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlkda)](https://github.com/anuraghazra/github-readme-stats)
 
