@@ -1,6 +1,5 @@
 <p align="left"> 
 
-![](https://komarev.com/ghpvc/?wxlkda)
 
 <h1 align="center">Hi there, it's Alwalid.👋</h1>
 </p>
