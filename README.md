@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, it's Alwalid.👋</h1>
 </p>
 
-- 📊 I'm currently working on my [***algorithm visualizer***](https://github.com/wxlkda/datavis)
+- 📊 I'm currently working on my [Algorithm Visualizer](https://github.com/wxlkda/datavis)
 
 - 🌐 Portfolio/personal site available at [https://alwalidkhan.com/](https://alwalidkhan.com/)
 
