@@ -3,9 +3,10 @@
 
 
 <h1 align="center">Hi there, it's Alwalid.👋</h1>
+programmer during the day, gamer by night
 </p>
 
-programmer by day, gamer by night
+
 
 - 📊 I'm currently working on my [Algorithm Visualizer](https://github.com/wxlkda/datavis)
 
