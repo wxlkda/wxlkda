@@ -5,6 +5,8 @@
 <h1 align="center">Hi there, it's Alwalid.👋</h1>
 </p>
 
+programmer by day, gamer by night
+
 - 📊 I'm currently working on my [Algorithm Visualizer](https://github.com/wxlkda/datavis)
 
 - 🌐 Portfolio/personal site available at [https://alwalidkhan.com/](https://alwalidkhan.com/)
