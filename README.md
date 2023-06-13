@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there, it's Alwalid.👋</h1>
-programmer during the day, gamer by night
+<h4 align="centeR">programmer during the day, gamer by night</h4>
 </p>
 
 
