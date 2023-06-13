@@ -12,7 +12,4 @@
 - 📫 Contact me either at [alwalid23dec@gmail.com](mailto:alwalid23dec@gmail.com) (yes my birthday is dec 23) or my [Linkedin](https://www.linkedin.com/in/alwalid-khan/)
 
 
-### 📈 My GitHub Stats
-
-[![Alwalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxlkda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
