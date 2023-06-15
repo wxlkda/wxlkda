@@ -2,9 +2,10 @@
 <p align="left"> 
 
 
-<h1 align="center">Hi there, it's Alwalid.👋</h1><h4 align="centeR">programmer during the day, gamer by night</h4>
+<h1 align="center">Hi there, it's Alwalid.👋</h1>
 
 </p>
+<h3 align="center">programmer during the day, gamer by night</h3>
 
 
 
