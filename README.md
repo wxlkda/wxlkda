@@ -1,12 +1,12 @@
-### Hi, it's Alwalid 👋
+## Hi, it's Alwalid 👋
 
-#### Connect with me:
+### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alwalidk/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:alwalid23dec@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-lightgrey?style=flat&logo=Google-Chrome&logoColor=white)](http://www.alwalidkhan.com)
 
-## Tools, Technologies, and More
+### Tools, Technologies, and More
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
